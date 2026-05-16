@@ -1,0 +1,18 @@
+- [Hot water lawsuit](project_lawsuit_hotwater.md) — Suing property co., 1046-unit community, trial May 2026, meter forcibly removed
+- [Lawsuit analysis rules](feedback_lawsuit_objectivity.md) — Must be multi-perspective: defense, judge, developer angles; no echo chamber
+- [Lawsuit pending updates](project_lawsuit_pending_updates.md) — Two attack points to add to lawyer doc: labor cost independent line + 3-party ownership paradox
+- [OCR tool location](reference_ocr_tool.md) — Python OCR script at 诉讼/ocr_tool.py for scanned PDFs and images
+- [Hot water pricing](feedback_hotwater_pricing.md) — 42元/立方米按量计费，NOT固定42元/月，年收入约90万不是52.7万
+- [Counterclaim strategy: don't dilute](feedback_lawsuit_strategy_物业费陷阱.md) — 物业费不主张酌减，统一逻辑"合同基础被污染→整体暂停→厘清后全付"，不给法官打折结案台阶
+- [Counterclaim evidence strategy](feedback_lawsuit_evidence_沟通记录.md) — 交沟通记录+严控用途的服务瑕疵证据；必须配护栏段落"不主张酌减"
+- [反诉折扣陷阱](feedback_lawsuit_8月折扣陷阱.md) — 业主自己庭外提折扣会自爆策略；预案"庭外谈判提议≠诉讼立场"
+- [Lawsuit counterclaim corrections](project_lawsuit_质证修正_2026-05-08.md) — 7项关键修正：含评估资质论点删除（时间敏感型论点必须三时间点比对）
+- [Counterclaim work summary 5/8](project_lawsuit_counterclaim_2026-05-08.md) — 质证意见+反诉答辩状已交付律师，待反馈
+- [庭前定稿 5/9](project_lawsuit_2026-05-09_final_prep.md) — 4份定稿文档+22→16月修正+热水起算日修正+核武器证据+5项瑕疵证据锁定
+- [庭审复盘-第一回合 5/12](project_lawsuit_trial_review_round1_2026-05-12.md) — 第一次开庭证据交换阶段：62.75评估报告质证策略、能源管理合同分成真相暴露、举证责任分析、下次准备事项
+- [质证复盘 5/14](project_lawsuit_质证复盘_2026-05-14.md) — 证据1-16逐项拆解+被告新增3论点（2003承诺书/市场监管局背书/通胀论）+己方合同陷阱+下次必补5件事
+- [庭审复盘 5/13后半段](project_lawsuit_trial_round1b_2026-05-13.md) — 节能费战场接近胜利:法官当庭推理"节能费=分成";被告7大自爆点;下次必带已付明细表+节能费对账表
+- [庭审完整分析 5/15](project_lawsuit_trial_analysis_2026-05-15.md) — 完整逐轮分析+法官心证泄露+对方律师风格+6处自爆+4个新发现+6大方向待用户判断
+- [承诺书反转策略 5/15](project_lawsuit_承诺书反转策略_2026-05-15.md) — 2018承诺书+住户手册攻击点反向使用：承认有效但用它反打被告自己违反，配Q→A应答稿
+- [第二回合准备最终状态 5/15](project_lawsuit_第二回合准备_2026-05-15.md) — 7份文档清单+8项事实订正+9点书面意见+战略转变（攻击→收割）+决战级武器
+- [论证框架硬约束 5/15](feedback_lawsuit_论证框架.md) — 避开物权法271/274和管理规约论；主用278条；法人举证不能；无独立采购合同；不接司法鉴定/不算节能数额；事实订正
