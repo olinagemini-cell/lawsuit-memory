@@ -1,0 +1,10 @@
+# Claude Code config
+.claude/
+
+# Obsidian
+.obsidian/
+
+# Scripts
+scripts/
+start_obsidian.bat
+OBSIDIAN_CC_GUIDE.md
